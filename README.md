@@ -1,5 +1,7 @@
 # Scalable Redux architecture for React Projects with Redux-Saga and Typescript
 
+PRACTICE PATTERN
+
 ## Starting Project
 
 `yarn start`

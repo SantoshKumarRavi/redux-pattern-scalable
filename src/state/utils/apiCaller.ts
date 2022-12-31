@@ -12,3 +12,4 @@ export default function apiCaller<T>(
 		body: data ? JSON.stringify(data) : null
 	}).then(res => res.json());
 }
+
